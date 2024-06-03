@@ -12,4 +12,4 @@ noted; The output voltage of the boost converter circuit is varying upto
 6.5V (from the datasheet TPS61202 IC provides constant 5V.)
  - Varying the inductors and the output voltage is noted; Variable output
 voltage is obtained.The PCB was modified using the TPS6120xEVM-179 datasheet. By varying the input voltage from 1V to 5V, the output voltage remains constant at 6.6V.
-![pcb dia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/SEG_DVD_430_-_Printed_circuit_board-4276.jpg/1200px-SEG_DVD_430_-_Printed_circuit_board-4276.jpg)
+
