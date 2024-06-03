@@ -1,0 +1,44 @@
+Info: Reading netlist file '/home/aiswarya/Aiswarya Babu/Ki-CAD/ULP LoRa HAT BOARD(V2.3)/ULP LoRa HAT BOARD/ulpLoRa_charge controller HAT.net'.
+
+Info: Using reference designators to match symbols and footprints.
+
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'J14:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J15:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J9:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J11:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J12:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'J13:Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'L1:Inductor_SMD:L_0805_2012Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'U5:Package_TO_SOT_SMD:SOT-353_SC-70-5'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-353_SC-70-5'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-353_SC-70-5'.
+Info: Processing symbol 'U4:Package_TO_SOT_SMD:SOT-353_SC-70-5'.
+Info: Processing symbol 'U1:Package_SON:Texas_S-PVSON-N10_ThermalVias'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'CON1:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical'.
+Info: Processing symbol 'CON2:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical'.
+Info: Processing symbol 'J8:Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical'.
+Info: Processing symbol 'J7:Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical'.
+Info: Processing symbol 'J6:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+
+
+Info: Total warnings: 0, errors: 0.

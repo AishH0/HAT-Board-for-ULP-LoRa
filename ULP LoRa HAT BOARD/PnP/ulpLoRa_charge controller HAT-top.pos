@@ -1,0 +1,43 @@
+### Footprint positions - created on Thursday 28 December 2023 05:49:33 PM ###
+### Printed by KiCad version 7.0.9-7.0.9~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref ,    Val            , Package                          ,     PosX ,      PosY ,      Rot , Side
+C1    ,    10uF           , C_0402_1005Metric                , 145.7949 ,  -79.8642 ,   0.0000 , top
+C2    ,    0.1uF          , C_0805_2012Metric                , 141.9425 ,  -73.8797 ,  90.0000 , top
+C3    ,    10uF           , C_0402_1005Metric                , 142.4646 ,  -70.7240 , -90.0000 , top
+C4    ,    0.1uF          , C_0805_2012Metric                , 145.6127 , -101.0504 , -90.0000 , top
+C5    ,    1uF            , C_0805_2012Metric                , 157.8289 , -109.5452 , -90.0000 , top
+C6    ,    1uF            , C_0805_2012Metric                , 149.0226 , -109.7704 , -90.0000 , top
+C7    ,    0.1uF          , C_0805_2012Metric                , 144.2034 , -105.9783 ,  90.0000 , top
+C8    ,    1uF            , C_0805_2012Metric                , 147.8539 , -101.0314 , -90.0000 , top
+C9    ,    0.1uF          , C_0805_2012Metric                , 155.5272 , -109.5202 , -90.0000 , top
+C10   ,    1uF            , C_0805_2012Metric                , 141.8170 , -105.9783 ,  90.0000 , top
+C11   ,    0.1uF          , C_0805_2012Metric                , 146.4958 , -109.7954 , -90.0000 , top
+CON1  ,    AVR-ISP-6      , PinHeader_2x03_P2.54mm_Vertical  , 151.7629 ,  -99.6718 ,   0.0000 , top
+CON2  ,    AVR-ISP-6      , PinHeader_2x03_P2.54mm_Vertical  , 160.0111 ,  -99.6798 ,   0.0000 , top
+J1    ,    Conn_01x12     , PinHeader_1x12_P2.54mm_Vertical  , 138.5984 ,  -67.5454 ,   0.0000 , top
+J2    ,    Conn_01x12     , PinHeader_1x12_P2.54mm_Vertical  , 153.6673 ,  -67.6058 ,   0.0000 , top
+J3    ,    RESET          , PinHeader_1x02_P2.54mm_Vertical  , 132.5830 ,  -61.5740 ,  90.0000 , top
+J4    ,    I2C            , PinHeader_1x04_P2.54mm_Vertical  , 138.6667 , -108.1308 , 180.0000 , top
+J5    ,    Conn_01x03     , PinHeader_1x03_P2.54mm_Vertical  , 147.2705 , -114.0093 , -90.0000 , top
+J6    ,    I2C            , PinHeader_1x04_P2.54mm_Vertical  , 132.5302 , -108.1234 , 180.0000 , top
+J7    ,    Conn_01x12_Pin , PinHeader_1x12_P2.54mm_Vertical  , 160.1310 ,  -67.5298 ,   0.0000 , top
+J8    ,    Conn_01x12_Pin , PinHeader_1x12_P2.54mm_Vertical  , 132.4509 ,  -67.5468 ,   0.0000 , top
+J9    ,    EN/Disable     , PinHeader_1x02_P2.54mm_Vertical  , 156.8696 ,  -61.5335 ,  90.0000 , top
+J11   ,    Vin            , PinHeader_1x02_P2.54mm_Vertical  , 148.7980 ,  -61.5334 ,  90.0000 , top
+J12   ,    Vout           , PinHeader_1x02_P2.54mm_Vertical  , 141.0565 ,  -61.5537 ,  90.0000 , top
+J13   ,    Conn_01x03     , PinHeader_1x03_P2.54mm_Vertical  , 162.5600 , -109.0720 ,   0.0000 , top
+J14   ,    Conn_01x03     , PinHeader_1x03_P2.54mm_Vertical  , 132.0727 , -113.9363 ,  90.0000 , top
+J15   ,    Conn_01x03     , PinHeader_1x03_P2.54mm_Vertical  , 152.4000 , -113.8980 ,  90.0000 , top
+L1    ,    2.2uH          , L_0805_2012Metric                , 142.1130 ,  -79.7350 ,  90.0000 , top
+R1    ,    R_Small        , R_0805_2012Metric                , 146.0489 ,  -71.2282 ,   0.0000 , top
+R2    ,    R_Small        , R_0805_2012Metric                , 149.6049 ,  -74.7842 , -90.0000 , top
+R3    ,    R_Small        , R_0805_2012Metric                , 149.6049 ,  -79.1022 ,  90.0000 , top
+R4    ,    R_Small        , R_0805_2012Metric                , 149.8589 ,  -71.2282 ,   0.0000 , top
+U1    ,    TPS61202DRC    , Texas_S-PVSON-N10_ThermalVias    , 145.7989 ,  -76.2822 ,   0.0000 , top
+U2    ,    SN74LV1T34DCK  , SOT-353_SC-70-5                  , 152.4744 , -109.0947 ,   0.0000 , top
+U3    ,    SN74LV1T34DCK  , SOT-353_SC-70-5                  , 143.2942 , -109.8952 ,   0.0000 , top
+U4    ,    SN74LV1T34DCK  , SOT-353_SC-70-5                  , 142.6741 , -100.9665 ,   0.0000 , top
+U5    ,    SN74LV1T34DCK  , SOT-353_SC-70-5                  , 147.1207 , -105.5245 , 180.0000 , top
+
